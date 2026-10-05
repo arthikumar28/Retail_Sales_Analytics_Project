@@ -1,127 +1,39 @@
+# 📊 Retail Sales Analytics
 
-# 📊 Retail Sales Analytics Project
-
-## 📌 Project Overview
-
-This project is an end-to-end **Retail Sales Analytics** project developed using **Excel, SQL, Python, and Power BI**.
-
-The objective is to analyze retail sales, customer behavior, product performance, store performance, staff performance, and inventory data to generate meaningful business insights and support data-driven decision-making.
-
----
-
-## 🎯 Objectives
-
-- Analyze overall sales and revenue performance
-- Identify top-performing products and categories
-- Analyze customer purchasing behavior
-- Perform RFM analysis and customer segmentation
-- Compare store-wise sales performance
-- Analyze staff performance
-- Identify low-stock products
-- Understand sales trends over time
-- Build an interactive Power BI dashboard
-- Generate actionable business insights
-
----
+An end-to-end **Retail Sales Analytics project** using **Excel, SQL, Python, and Power BI** to analyze sales, customers, products, stores, staff, and inventory.
 
 ## 🛠️ Tools & Technologies
 
-- **Excel** – Data cleaning and initial analysis
-- **SQL** – Data querying, joins, aggregations, and business analysis
-- **Python** – Data cleaning, EDA, RFM analysis, and customer segmentation
-- **Pandas & NumPy** – Data manipulation and analysis
-- **Matplotlib & Seaborn** – Data visualization
-- **Power BI** – Interactive dashboards and business intelligence
-- **Jupyter Notebook** – Python analysis
-- **ER Diagram** – Database relationship design
+- Excel
+- SQL
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Power BI
+- Jupyter Notebook
 
----
+## 🔍 Key Analysis
 
-## 📂 Dataset
+- Sales & Revenue Analysis
+- Customer Purchase Analysis
+- RFM Analysis & Customer Segmentation
+- Product & Category Performance
+- Store & Staff Performance
+- Inventory & Low Stock Analysis
+- Interactive Power BI Dashboard
 
-The project uses a relational retail sales database containing multiple connected tables such as:
+## 📁 Project Files
 
-- Customers
-- Orders
-- Order Items
-- Products
-- Stores
-- Staff
-- Categories
-- Brands
-- Stocks
+- `Retail sales analysis sql.sql` – SQL queries and analysis
+- `Retail Sales Analysis pyfile.ipynb` – Python analysis
+- `Dashboard Retail Sales.pbix` – Power BI dashboard
+- `er diagram.jpg` – Database ER Diagram
+- `Retail_Sales_Analytics_Project.pptx` – Project presentation
+- `Final Project DA - Vinsup.pdf` – Project documentation
 
-The relationships between the tables are represented using an **Entity Relationship Diagram (ER Diagram)**.
+## 🎯 Project Outcome
 
----
+Transformed retail data into **actionable business insights** to support data-driven decision-making.
 
-## 🔄 Project Workflow
+## 👩‍💻 Author
 
-**Raw Data → Excel → SQL → Python → RFM Analysis → Customer Segmentation → Power BI → Business Insights**
-
----
-
-## 📗 Phase 1: Excel
-
-Excel was used for initial data preparation and analysis.
-
-### Activities
-
-- Data inspection
-- Data cleaning
-- Missing value handling
-- Duplicate checking
-- Data formatting
-- Basic calculations
-- Initial sales analysis
-- Pivot table analysis
-
----
-
-## 🗄️ Phase 2: SQL
-
-SQL was used to analyze the retail database and answer business-related questions.
-
-### SQL Concepts Used
-
-- SELECT
-- WHERE
-- GROUP BY
-- ORDER BY
-- Aggregate Functions
-- INNER JOIN
-- LEFT JOIN
-- CASE
-- Subqueries
-- COUNT
-- SUM
-- AVG
-- MIN
-- MAX
-
-### Analysis Performed
-
-- Total sales analysis
-- Order analysis
-- Customer analysis
-- Product performance
-- Category performance
-- Store performance
-- Staff performance
-- Sales trends
-- Top-selling products
-- Inventory analysis
-
----
-
-## 🐍 Phase 3: Python
-
-Python was used for exploratory data analysis and customer behavior analysis.
-
-### Libraries Used
-
-```python
-Pandas
-NumPy
-Matplotlib
-Seaborn
+**Amuthalakshmi K**  
+Aspiring Data Analyst | Data Science & GenAI Learner
